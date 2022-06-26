@@ -1,1 +1,1 @@
-# Learning
+This is the first website that I created on my own while learning, and I just wanted to show this because it's where I started my journey in coding and deep-diving into the tech world. This was a precious experience and helped me learn a lot. The website is essential and consists of just an about page, a contact page, and the Home page. There is also an admin page where the admin can log in and git the data of everyone who has logged into the website. I think it's pretty impressive for the first working website I made on my own. 
